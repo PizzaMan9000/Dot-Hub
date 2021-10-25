@@ -1,0 +1,30 @@
+body {
+    color:white;
+    background-color:grey;
+    font-family: 'raleway', sans-serif;
+}
+
+
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+  }
+  
+  canvas {
+    background-color: #3c3c3c;
+    
+    
+  }
+  
+  body {
+    width:100vw;
+    height:100vh;
+    overflow:hidden;
+  }
+
+  span {
+    margin:10px;
+  }
